@@ -120,6 +120,9 @@ Follow the interactive menu to:
 * Discover source code files
 * Perform CRUD operations
 
+OR 
+Download system-info.exe
+and Run this file to see Magic
 ---
 
 ## Technologies Used
