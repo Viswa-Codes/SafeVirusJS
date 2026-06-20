@@ -110,7 +110,7 @@ obj
 ## How to Run
 
 ```bash
-node system-info-enhanced.js
+node system-info.js
 ```
 
 Follow the interactive menu to:
